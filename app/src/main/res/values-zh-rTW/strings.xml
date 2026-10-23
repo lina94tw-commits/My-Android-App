@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">來看貓貓吧!</string>
+    <string name="p1_btn_name">炭烤黑貓</string>
+    <string name="p1_btn2_name">微焦白貓</string>
+    <string name="next_name">往左滑動</string>
+    <string name="previous_name">往右滑動</string>
+    <string name="p2_call">我打個電話</string>
+    <string name="p2_web">梳毛!!(網站)</string>
+    <string name="p2_map">看看地圖</string>
+    <string name="p3_photo">拍個貓吧</string>
+    <string name="p4_start">開始</string>
+    <string name="p4_stop">停止</string>
+    <string name="p4_transparent">透明</string>
+    <string name="p4_move">位移</string>
+    <string name="p4_zoom">縮放</string>
+    <string name="p4_rotate">旋轉</string>
+
+</resources>

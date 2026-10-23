@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Let\'s see the cats!</string>
+    <string name="p1_btn_name">blackkk</string>
+    <string name="p1_btn2_name">whiteee</string>
+    <string name="next_name">next page</string>
+    <string name="previous_name">previous page</string>
+    <string name="p2_call">call</string>
+    <string name="p2_web">web</string>
+    <string name="p2_map">map</string>
+    <string name="p3_photo">take "cats"</string>
+    <string name="p4_start">start</string>
+    <string name="p4_stop">stop</string>
+    <string name="p4_transparent">transparent</string>
+    <string name="p4_move">move</string>
+    <string name="p4_zoom">zoom</string>
+    <string name="p4_rotate">rotate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

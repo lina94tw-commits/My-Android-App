@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:checkable="true"
+        android:icon="@drawable/pic1"
+        android:title="Quby"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item2"
+        android:checkable="true"
+        android:icon="@drawable/pic2"
+        android:title="寶寶"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item3"
+        android:checkable="true"
+        android:icon="@drawable/pic3"
+        android:title="鈴鈴"
+        app:showAsAction="never" />
+</menu>
